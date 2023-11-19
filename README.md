@@ -31,8 +31,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/Gopika-9266/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/122762773/65f9e914-e7e7-4d95-9a9c-9b29e0994d5f)
+
+
+### Name: Gopika R
+### Register Number: 212222240031
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
